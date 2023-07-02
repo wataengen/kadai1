@@ -50,14 +50,14 @@ main{
 
 .image1{
   z-index: 1;
-  width: 100%;
+  width: 300px;
   height: 150px;
   background-image: url(img/flow01.png);
   background-size: cover;
 }
 .image2{
   z-index: 1;
-  width: 100%;
+  width: 300px;
   height: 150px;
   background-image: url(img/flow02.png);
   background-size: cover;
@@ -65,7 +65,7 @@ main{
 
 .image3{
   z-index: 1;
-  width: 100%;
+  width: 300px;
   height: 150px;
   background-image: url(img/flow03.png);
   background-size: cover;
