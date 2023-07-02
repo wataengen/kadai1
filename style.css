@@ -11,6 +11,9 @@ main{
  margin-top: 50px;
  margin-bottom:  50px;
 }
+h3{
+  margin: 5px;
+}
 
 .header {
   width: 100%;
@@ -37,7 +40,7 @@ main{
 }
 .step{
   z-index: 2;
-  margin: -5px -5px -10px -5px;
+  margin: 0 -10px -17px 0;
   box-sizing: border-box;
 
   text-align: center;
@@ -101,11 +104,10 @@ main{
   width: 100%;
   margin-bottom: 10px;
   margin-top: 10px;
-  padding: 5px;
 }
 .step{
   z-index: 2;
-  margin: -5px -5px -10px -5px;
+  margin: 0 -10px -17px 0;
   box-sizing: border-box;
 
   text-align: center;
