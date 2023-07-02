@@ -17,15 +17,14 @@ main{
   background-color: #ff9a4b;
 }
 .main {
-  width: 90%;
+  width: 960px;
   margin-top: 50px;
   margin-bottom:  50px;
   margin-right: auto;
   margin-left: auto;
   display: flex;
   flex-wrap: wrap;
-  gap: 30
-px
+  gap: 30px
 }
 
 .box {
