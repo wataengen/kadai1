@@ -8,7 +8,8 @@ body{
  height: 400px;
 }
 main{
-  margin: 40px;
+ margin-top: 50px;
+ margin-bottom:  50px;
 }
 
 .header {
@@ -18,11 +19,10 @@ main{
 }
 .main {
   width: 960px;
-  margin-top: 50px;
-  margin-bottom:  50px;
+
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   gap: 30px
 }
 
@@ -78,15 +78,19 @@ main{
 }
 
 @media screen and (max-width: 425px) {
-  .header {
+main{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.header {
   width: 100%;
   height: 50px;
 }
 .main {
   font-size: 11px;
   width: 90%;
-  margin-bottom: 50px;
-  margin-top: 50px;
+  
   margin-right: auto;
   margin-left: auto;
   gap: 20px
