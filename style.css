@@ -82,7 +82,7 @@ h3{
   background-color: #aaaaaa;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
 main{
   margin-bottom: 50px;
   margin-top: 50px;
