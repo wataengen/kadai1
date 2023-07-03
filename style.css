@@ -103,8 +103,6 @@ main{
 
 .box {
   width: 100%;
-  margin-bottom: 10px;
-  margin-top: 10px;
 }
 .step{
   z-index: 2;
